@@ -129,6 +129,7 @@ Considerando minha carga de trabalho e demais disciplinas, defino uma rotina sus
 
 ### Terça-feira — 19h às 21h (bloco principal fixo)
 Duração: 2h
+
 Tipo de atividade: Exercícios + Implementação + Análise
 
 **Estrutura do bloco:**
@@ -159,6 +160,7 @@ Tipo de atividade: Teoria + Revisão
 
 ### Domingo — 10h às 11h (bloco opcional de aprofundamento)
 Duração: 1h
+
 Tipo de atividade: Exercícios direcionados
 
 Resolver 1 exercício focado exclusivamente em:
