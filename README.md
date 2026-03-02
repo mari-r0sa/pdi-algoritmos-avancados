@@ -133,6 +133,7 @@ Tipo de atividade: Exercícios + Implementação + Análise
 
 **Estrutura do bloco:**
 
+
 40 min — Resolução estratégica de problema
 - Leitura cuidadosa do enunciado
 - Escrita da estratégia antes de implementar
