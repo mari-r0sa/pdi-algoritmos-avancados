@@ -132,16 +132,17 @@ Duração: 2h
 Tipo de atividade: Exercícios + Implementação + Análise
 
 **Estrutura do bloco:**
+
 40 min — Resolução estratégica de problema
 - Leitura cuidadosa do enunciado
 - Escrita da estratégia antes de implementar
 - Identificação do padrão (recursão, divisão e conquista, etc.)
 
-**50 min — Implementação**
+50 min — Implementação
 - Desenvolvimento da solução
 - Análise de complexidade após implementação
 
-**30 min — Refatoração**
+30 min — Refatoração
 - Revisão estrutural
 - Redução de redundâncias
 - Avaliação de melhoria de complexidade
