@@ -89,9 +89,9 @@ Criar o hábito de estruturar estratégia antes da implementação, identificand
 - Registrar erros e aprendizados.
 
 **Medição:**
-= Reduzir tempo de tentativa e erro.
+- Reduzir tempo de tentativa e erro.
 - Aumentar taxa de exercícios resolvidos corretamente na primeira versão.
-= Conseguir explicar a estratégia sem mostrar o código.
+- Conseguir explicar a estratégia sem mostrar o código.
 
 **Prazo:**
 Evolução contínua até o final do semestre.
